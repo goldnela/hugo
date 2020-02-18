@@ -4,9 +4,7 @@ We had much fun working with *GitHub & Hugo* and are already looking forward to 
 
 All the best,
 
-**The Cactus Factus Crew**
-
-Antonia, Nela, Pia
+**The Cactus Factus Crew** (Antonia, Nela, Pia)
 
 P.S.: Tacos are awesome!
 
